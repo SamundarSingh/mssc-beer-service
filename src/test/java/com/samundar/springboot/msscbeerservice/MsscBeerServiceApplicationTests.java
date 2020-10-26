@@ -1,10 +1,10 @@
-package com.samundar.springboot.msscbreweryservice;
+package com.samundar.springboot.msscbeerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MsscBreweryServiceApplicationTests {
+class MsscBeerServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
